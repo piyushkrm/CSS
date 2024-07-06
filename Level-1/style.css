@@ -1,0 +1,71 @@
+h1 {
+    color: red;
+}
+
+p{
+    color: rgb(115, 234, 115);
+}
+
+button {
+    color: rgb(233, 192, 142);
+    background-color: rgb(255, 45, 157);
+}
+
+body {
+    background-color: black;
+}
+
+#box {
+    background-color: blue;
+}
+
+.heading {
+    color: red;
+}
+
+#btn {
+    background-color: green;
+}
+
+ul li {
+    color: rgb(115, 234, 115);
+}
+
+
+p {
+    text-align: center;
+    text-decoration: wavy underline;
+    text-decoration: overline;
+    text-decoration: red line-through;
+    
+}
+
+h1 {
+    text-align: end;
+}
+
+p {
+    line-height: 25px;
+    text-transform: lowercase;
+    text-transform: uppercase;
+    text-transform: capitalize;
+    text-transform: none;
+}
+
+h1 {
+    text-align: center;
+}
+
+#q2 {
+    font-family: 'Times New Roman', Times, serif;
+}
+
+#first-one {
+    font-size: 25px;
+    border: 2px solid red;
+}
+
+#second-one {
+    font-size: 8px;
+    border: 2px solid green;
+}

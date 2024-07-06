@@ -1,0 +1,68 @@
+*{
+    padding: 0;
+    margin: 0;
+    color: white;
+}
+#div {
+    height: 100px;
+    width: 100px;
+    background-color: green;
+    border-radius: 50%;
+}
+
+.nav {
+    background-color: rgb(0, 0, 0);
+    color: white;
+    /* border: 8px solid rgb(223, 57, 57); */
+    height: 60px;
+}
+
+a {
+    margin-right: 200px;
+}
+
+.logo {
+    color: brown;
+}
+.item {
+    color: blueviolet;
+}
+
+.item1 {
+    color: brown;
+}
+
+.btn {
+    background-color: rgb(224, 169, 5);
+    color: white;
+}
+
+.box {
+    border: 2px dashed pink;
+    width: 210px;
+}
+
+.box1 {
+    width: 150px;
+    height: 150px;
+    background-color: red;
+    border-radius: 50%;
+    margin: 20px;
+    padding: 10px;
+}
+.box2 {
+    width: 150px;
+    height: 150px;
+    background-color: green;
+    border-radius: 50%;
+    margin: 20px;
+    padding: 10px;
+}
+.box3 {
+    width: 150px;
+    height: 150px;
+    background-color: yellow;
+    border-radius: 50%;
+    margin: 20px;
+    padding: 10px;
+}
